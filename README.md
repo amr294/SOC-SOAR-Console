@@ -4,6 +4,8 @@ A local, human-in-the-loop SOAR-style console built with Python, CustomTkinter, 
 
 This is a portfolio and lab project, not a production-ready multi-user SOAR platform.
 
+No license granting general reuse rights is included.
+
 ## What it demonstrates
 
 - Read-only SSH consumption of Wazuh's `alerts.json` stream.
