@@ -132,6 +132,3 @@ The complete lab build, FortiGate/Wazuh integration, SOC dashboard, and SOAR wor
 - [SOC Monitoring Dashboard](https://github.com/amr294/SIEM-Monitoring-Home-Lab/blob/main/docs/17-SOC-Monitoring-Dashboard.md)
 - [SOAR Console and Incident Response Workflow](https://github.com/amr294/SIEM-Monitoring-Home-Lab/blob/main/docs/18-SOAR-Console-and-Incident-Response.md)
 
-## License
-
-No license is included yet. Public visibility alone does not grant permission to reuse or redistribute the code. Choose and add a license before publishing if you want to grant reuse rights.
