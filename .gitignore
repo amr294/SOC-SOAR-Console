@@ -1,0 +1,41 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+vt_api_key.txt
+local-config.ps1
+
+# Local SQLite databases, sidecars, backups and test databases
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.sqlite3-*
+*.backup
+*.backup-*
+*.bak
+*-test.db
+
+# Logs and generated test/report output
+*.log
+logs/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

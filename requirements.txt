@@ -1,0 +1,2 @@
+# GUI dependency. The rest of the application and tests use Python's standard library.
+customtkinter>=5.2,<6
